@@ -7,6 +7,7 @@ También se cambiaron las texturas de los muebles y la silla, la cual en la sill
 ![2](https://user-images.githubusercontent.com/49033427/151117962-73f437f4-8ede-4db7-a046-304b822ba632.png)
 
 Para el tablero de ajedrez como se dijo anteriormente se utilizo la refrigeradora, pero con unos pequeños cambios para que así pueda dar la altura al tablero de ajedrez y este no quede como un simple cuadro encima de cualquier superficie.
+
 ![3](https://user-images.githubusercontent.com/49033427/151117965-bb57cd16-86f9-4a12-9f51-641b454973a3.png)
 
 Para los cuadros de la familia y los del estudiante se utilizaron 3 imágenes las cuales están presentadas una junto a la pantalla del computador y otras dos están en la cocina.
