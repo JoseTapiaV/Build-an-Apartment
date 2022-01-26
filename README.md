@@ -30,3 +30,7 @@ Se creo una cámara la cual se utilizará para poder observar el proyecto cuando
 También para la configuración final se actualiza el nombre de la compañía y también el nombre que va a tener nuestro proyecto cuando se despliegue en el celular.
 
 ![10](https://user-images.githubusercontent.com/49033427/151117980-074713d0-c91c-4173-8b92-a449a250125e.png)
+
+## b.	La evidencia del correcto funcionamiento de la aplicación 
+Para la presentación correcta del funcionamiento y también de un correcto diseño del departamento se mostrará un video el cual se muestra los datos y puntos anteriormente mencionados, los cuales se encuentran dentro del siguiente link:
+https://drive.google.com/file/d/139fGWbJ7vPvgns6iuv6bjNoEvoAUfyDh/view?usp=sharing
