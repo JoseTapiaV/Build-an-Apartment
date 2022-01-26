@@ -23,6 +23,7 @@ Para la animación del globo terráqueo se utilizó de igual manera una animaci�
 ![7](https://user-images.githubusercontent.com/49033427/151117973-03ca5138-ce9d-4ef2-931b-bccb557fbaaf.png)
 
 Se creo una cámara la cual se utilizará para poder observar el proyecto cuando ya sea desplegado en una celular Android pero el mismo lugar donde se encuentra la cámara se creo un objeto de audio el cual es AudioSource, el que nos permite subir y reproducir el sonido de la ciudad, configurándolo para que este tenga un loop infinito y también para configurarle el volumen del mismo.
+
 ![8](https://user-images.githubusercontent.com/49033427/151117975-83cc8377-386c-485c-bd2d-a3379cbec4f1.png)![9](https://user-images.githubusercontent.com/49033427/151117977-40bd0406-5ef9-4616-8a06-b6d4d6c5700d.png)
 
 También para la configuración final se actualiza el nombre de la compañía y también el nombre que va a tener nuestro proyecto cuando se despliegue en el celular.
